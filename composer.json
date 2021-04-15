@@ -1,5 +1,5 @@
 {
-    "name": "drupal-composer/drupal-project",
+    "name": "pepino710/drupal-project",
     "description": "Project template for Drupal 9 projects with Composer",
     "type": "project",
     "license": "GPL-2.0-or-later",
